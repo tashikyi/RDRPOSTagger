@@ -21,3 +21,4 @@ RDRPOSTagger is also available to download (10MB .zip file) at: [https://sourcef
 
 **Find the full usage of RDRPOSTagger at its website:** [http://rdrpostagger.sourceforge.net/](http://rdrpostagger.sourceforge.net/)
 
+Tibetan corpus: the corpus should be already segmented because RDRPOSTagger can not segment Tibetan texts. 
