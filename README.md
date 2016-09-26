@@ -21,5 +21,3 @@ RDRPOSTagger is also available to download (10MB .zip file) at: [https://sourcef
 
 **Find the full usage of RDRPOSTagger at its website:** [http://rdrpostagger.sourceforge.net/](http://rdrpostagger.sourceforge.net/)
 
-
-Le corpus d'entrainement est issu de Nathan Hills, SOAS université: 
