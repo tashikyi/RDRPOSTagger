@@ -1,5 +1,5 @@
 # RDRPOSTagger
-POS and morphological tagging for Tibetan
+POS tagging for Tibetan
 
 **RDRPOSTagger** is a robust, easy-to-use and language-independent toolkit for POS and morphological tagging. It employs an error-driven approach to automatically construct tagging rules in the form of a binary tree. The main properties of RDRPOSTagger are as follows:
 
